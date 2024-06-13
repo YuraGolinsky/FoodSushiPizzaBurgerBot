@@ -378,39 +378,39 @@ Telegram bot
 Главное меню
 Main Menu
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/9b4f1dab-914a-4cc9-97af-098a6c79ad8f)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/9b4f1dab-914a-4cc9-97af-098a6c79ad8f)
 
 Меню и категории
 Menu and Categories
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/7a6c4602-ea51-4501-b52f-82dd2112f871)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/7a6c4602-ea51-4501-b52f-82dd2112f871)
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/7c9915ca-c2a9-46f1-a6a8-18fd4ee75cd2)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/7c9915ca-c2a9-46f1-a6a8-18fd4ee75cd2)
 
 Категория Суши
 Sushi Category
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/00a3db3a-9567-43bb-889e-41092dd39bc2)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/00a3db3a-9567-43bb-889e-41092dd39bc2)
 
 Категория Пицца
 Pizza Category
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/96262d9a-3d11-4cae-a5c7-a60e5a5b4764)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/96262d9a-3d11-4cae-a5c7-a60e5a5b4764)
 
 Категория Сет
 Set Category
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/02605046-25d6-4c66-8b61-7bced4ae07bb)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/02605046-25d6-4c66-8b61-7bced4ae07bb)
 
 Категория Бургер
 Burger Category
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/9ba5b4c8-598a-461c-9e81-f7c48a4b382f)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/9ba5b4c8-598a-461c-9e81-f7c48a4b382f)
 
 Категория Ролл
 Roll Category
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/8a121c50-5068-44e8-b4e7-e661d7aa155c)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/8a121c50-5068-44e8-b4e7-e661d7aa155c)
 
 О нас
 About Us
@@ -425,22 +425,22 @@ Instructions
 Как выглядит карточка в меню
 How Menu Card Looks
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/4fadaaa1-891e-48d6-8f88-6889cfe3d4f7)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/4fadaaa1-891e-48d6-8f88-6889cfe3d4f7)
 
 Оформление заказа
 Order Form
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/b3707320-6c8f-4bbf-bd92-ada6b0da1606)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/b3707320-6c8f-4bbf-bd92-ada6b0da1606)
 
 Введите ФИО
 Enter Full Name
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/a3c7ca43-9394-4d94-98bd-fdb523c09106)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/a3c7ca43-9394-4d94-98bd-fdb523c09106)
 
 Введите телефон
 Enter Phone Number
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/d79d0d44-f2ed-4160-9572-8e9c430e0201)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/d79d0d44-f2ed-4160-9572-8e9c430e0201)
 
 Введите адрес
 Время готовности
@@ -450,16 +450,16 @@ Enter Address
 Pickup Time
 Delivery Time
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/2e36c603-25b3-48fc-8499-0c63d3a1c6b3)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/2e36c603-25b3-48fc-8499-0c63d3a1c6b3)
 
 Карточка заказа после оформления
 Order Card After Placement
 
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/676f572f-2d06-4cd8-86f9-f86e1e571a56)
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/280a2678-8267-48f2-8ad9-eb02b960a40c)
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/87eef0d2-fb82-485b-9d23-610e59f1ba38)
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/9f843d79-5e55-491e-87a8-cf52f7e5309a)
-[изображение](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/24ccf6d4-c8d9-4ae7-bbc1-165c540fe356)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/676f572f-2d06-4cd8-86f9-f86e1e571a56)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/280a2678-8267-48f2-8ad9-eb02b960a40c)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/87eef0d2-fb82-485b-9d23-610e59f1ba38)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/9f843d79-5e55-491e-87a8-cf52f7e5309a)
+![image](https://github.com/YuraGolinsky/FoodSushiPizzaBurgerBot/assets/134283897/24ccf6d4-c8d9-4ae7-bbc1-165c540fe356)
 
 
 
