@@ -5,7 +5,7 @@ import os
 import uuid
 from datetime import datetime
 
-TOKEN = '7003412387:AAGep760TdROsn2X6ZNA58poYzym6UEzZMI'
+
 bot = telebot.TeleBot(TOKEN)
 
 MENU_FILE = 'menu.json'
